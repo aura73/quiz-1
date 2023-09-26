@@ -1,6 +1,6 @@
 import java.util.Scanner;
 // Primera clase ejecutada
-    public class main {
+    public class Principal {
         public static void main(String[] args) {
             // Llamamos la clase Notas
             Notas n = new Notas();
